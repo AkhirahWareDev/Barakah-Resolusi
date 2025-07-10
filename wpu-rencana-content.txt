@@ -1,4 +1,6 @@
 Rencana konten Ku
 - Ruby
+  -Es6
+  - bootstrap
 - Interview
 - vlog
