@@ -3,4 +3,5 @@ Rencana konten Ku
   -Es6
   - bootstrap
 - Interview
+- Fundamental data structure
 - vlog
