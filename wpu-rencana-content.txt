@@ -1,0 +1,4 @@
+Rencana konten Ku
+- Ruby
+- Interview
+- vlog
