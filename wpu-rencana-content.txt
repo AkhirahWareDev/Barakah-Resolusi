@@ -2,8 +2,9 @@ Rencana konten Ku
 - Ruby
   -Es6
   - bootstrap
-- angular
-- react
+-framework javascript
 - Interview
 - Fundamental data structure
 - vlog
+- Jacko
+- laravel
